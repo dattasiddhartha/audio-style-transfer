@@ -1,10 +1,10 @@
 import tensorflow as tf
 import librosa
 import os
-from IPython.display import Audio, display
+# from IPython.display import Audio, display
 import numpy as np
 import matplotlib.pyplot as plt
-%matplotlib inline
+# %matplotlib inline
 
 
 CONTENT_FILENAME = "inputs/opera.wav"
